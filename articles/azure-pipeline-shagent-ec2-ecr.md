@@ -1,6 +1,6 @@
 ---
 title: "Self-hosted Agentを使ってAzure PipelineからプライベートEC2経由でECRにイメージを登録する"
-emoji: ":panda_face:"
+emoji: "🐼"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Merkdown"]
 published: true
