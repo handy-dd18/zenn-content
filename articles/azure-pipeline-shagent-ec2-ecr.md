@@ -3,7 +3,7 @@ title: "Self-hosted Agentを使ってAzure PipelineからプライベートEC2�
 emoji: "📑"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Merkdown"]
-published: false
+published: true
 ---
 ※Zenn初投稿になります
 
